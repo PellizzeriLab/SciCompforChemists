@@ -3,15 +3,15 @@
 ### An Introduction to Programming in Python with Chemical Applications
 
 
-The following is the textbook used for the Scientific Computing Chemists course intended to teach chemists and chemistry students basic computer programming in Python and Jupyter Notebooks and advanced tools for the processing, visualization, and analysis of digital data. This book serves as an introduction to coding for chemists.
+The following is the textbook used for the Scientific Computing for Chemists course intended to teach chemists and chemistry students basic computer programming in Python and Jupyter Notebooks and advanced tools for the processing, visualization, and analysis of digital data. This book serves as an introduction to coding for chemists.
 
 ## [Read Scientific Computing for Chemists with Python (Jupyter Book)](https://weisscharlesj.github.io/SciCompforChemists/)
 
-A chapter outline is provided below. The book starts with a streamlined introduction to Python for chemists followed by introducing powerful computing tools and numerous applications to chemistry. This book assumes that the student or reader has no prior programming experience and has at least one year of undergraduate chemistry background and ideally some very basic spectroscopy/spectrometry (i.e., NMR, IR, UV-vis, and GC/MS) background. All software used (e.g., Python, NumPy, SciPy, etc.) is free and open source software and runs on macOS, Windows, and Linux.
+A chapter outline is provided below. This book starts with a streamlined introduction to Python for chemists followed by the introduction of powerful computing tools and numerous applications to chemistry. This book assumes that the student or reader has no prior programming experience and has at least one year of undergraduate chemistry background and ideally some very basic spectroscopy/spectrometry (i.e., NMR, IR, UV-vis, and GC/MS) background. All software used (e.g., Python, NumPy, SciPy, etc.) is free and open source software and runs on macOS, Windows, and Linux.
 
 This book is periodically updated to fix typos, account for new software versions, and add new content. The most recent version can be viewed using the link above, downloaded, or forked using Git or GitHub. Reports of errors and information on how people are using this book are always welcome.
 
-The book is copyright © 2017-2025 Charles J. Weiss and is released under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. All files with the book are also copyright and released under the CC BY-NC-SA 4.0 license unless otherwise noted (see README.txt files for more information).
+The book is copyright © 2017-2026 Charles J. Weiss and is released under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. All files with the book are also copyright and released under the CC BY-NC-SA 4.0 license unless otherwise noted (see README.txt files for more information).
 
 Answer keys to exercises are available to **instructors** upon request by [emailing](https://www.augie.edu/directory) me using your school email address. The answer keys are © Charles J. Weiss and are **not** released under a Creative Commons license.
 
@@ -46,7 +46,7 @@ First, I'd love to hear how people are using this book. Second, this book may re
 
 1. (Simplest) Download PDF copies of the chapters to share with your student - at the top right of each chapter page, click the download button and select the PDF option.
 
-2. (Simple) Download a PDF of the entire book to share with your students using [this link](https://github.com/weisscharlesj/data_SciCompforChem/blob/main/SciCompforChem_Weiss.pdf). The download button (small down arrow) is on the right. Note: the interactivity features in chapter 11 and appendix 0 do not work in the PDF version.
+2. (Simple) Download a PDF of the entire book to share with your students using [this link](https://github.com/weisscharlesj/data_SciCompforChem/blob/main/SciCompforChem_Weiss.pdf). The download button (small down arrow) is on the right. The interactivity features in chapter 11 and appendix 0 do not work in the PDF version.
 
 3. (Advanced) Fork this repository to your GitHub page and have your students use your copy - create a GitHub account, fork this repository, build the book using [Jupyter Book](https://jupyterbook.org/), and have your students use your copy on your GitHub page. You can update your fork of this repository at any time to receive any updates, and unlike a PDF copy, this approach makes it easier for students to copy-and-paste code from the chapters. The approach does require the user to be comfortable using git and GitHub.
 
